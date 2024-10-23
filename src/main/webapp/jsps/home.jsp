@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lendi Institute of Engineering & Technology</title>
+    <title>Gayatri Vidya Parishad College of Engineering</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,38 +12,42 @@
             background-color: #f4f4f4;
         }
         header {
-            background-color: #004080;
+            background-color: #005cbf;
             color: white;
-            padding: 10px 0;
+            padding: 20px;
             text-align: center;
         }
-        .navbar {
-            background-color: #003366;
-            overflow: hidden;
-        }
-        .navbar a {
-            float: left;
-            display: block;
-            color: white;
+        .nav {
+            background-color: #007bff;
+            padding: 10px;
             text-align: center;
-            padding: 14px 16px;
+        }
+        .nav a {
+            color: white;
             text-decoration: none;
-        }
-        .navbar a:hover {
-            background-color: #0059b3;
-        }
-        .hero {
-            text-align: center;
+            margin: 0 15px;
+            padding: 10px;
+            border-radius: 5px;
             background-color: #0056b3;
-            color: white;
-            padding: 20px 0;
-            font-size: 24px;
+        }
+        .nav a:hover {
+            background-color: #004080;
+        }
+        .container {
+            padding: 20px;
+            background-color: #fff;
+            margin: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007bff;
         }
         .footer {
-            background-color: #004080;
+            background-color: #005cbf;
             color: white;
             text-align: center;
-            padding: 10px 0;
+            padding: 10px;
             position: relative;
             bottom: 0;
             width: 100%;
@@ -53,30 +57,27 @@
 <body>
 
 <header>
-    <h1>Lendi Institute of Engineering & Technology</h1>
-    <p>An Autonomous Institution Approved by AICTE & Permanently Affiliated to JNTU Gurajada, Vizianagaram</p>
+    <h1>Gayatri Vidya Parishad College of Engineering</h1>
+    <p>Approved by AICTE & Affiliated to Andhra University, Visakhapatnam from 2022-23</p>
+    <p>Accredited by NAAC at ‘A++’ Grade for 7 years in the 3rd Cycle</p>
 </header>
 
-<div class="navbar">
-    <a href="#home">Home</a>
-    <a href="#administration">Administration</a>
-    <a href="#academics">Academics</a>
-    <a href="#autonomous">Autonomous</a>
-    <a href="#research">Research</a>
-    <a href="#amenities">Amenities</a>
-    <a href="#activities">Activities</a>
-    <a href="#placements">Placements</a>
-    <a href="#contact">Contact Us</a>
-    <a href="#virtualtour">Virtual Tour</a>
-    <a href="#ecorner">eCorner</a>
+<div class="nav">
+    <a href="#verification">Online Student Verification</a>
+    <a href="#admissions">B.Tech Admissions 2024-25</a>
 </div>
 
-<div class="hero">
-    <p>16 Years of Glory...</p>
+<div class="container">
+    <h2>Workshops and Conferences</h2>
+    <p><strong>NEW:</strong> An exciting 6-day hands-on offline workshop with cutting-edge projects using three different controllers and explore the world of IoT.</p>
+    <p><strong>NEW:</strong> A One-Week National Workshop (Online Mode) On Smart Diagnostics: AI and Machine Learning for Vibration Analysis in Machinery and Structures from 11th – 15th November 2024, Organized by the Department of Mechanical Engineering.</p>
+    <p><a href="#">Brochure</a> | <a href="#">Payment QR</a> | <a href="#">Registration Link</a> | <a href="#">Schedule</a></p>
+    <p><strong>NEW:</strong> A Two-day National Conference on Computational Intelligence and Sustainable Technologies GVCON - 2K24 on 6th & 7th December 2024 organized by the department of EEE.</p>
+    <p><strong>INCENTIVES FOR GATE-2025 RANKERS</strong></p>
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 Lendi Institute of Engineering & Technology</p>
+    <p>&copy; 2024 Gayatri Vidya Parishad College of Engineering. All rights reserved.</p>
 </footer>
 
 </body>
