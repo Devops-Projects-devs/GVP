@@ -57,7 +57,7 @@
 <body>
 
 <header>
-    <h1>Gayatri Vidya Parishad College of Engineering</h1>
+    <h1>Girish Vidya Parishad College of Engineering</h1>
     <p>Approved by AICTE & Affiliated to Andhra University, Visakhapatnam from 2022-23</p>
     <p>Accredited by NAAC at ‘A++’ Grade for 7 years in the 3rd Cycle</p>
 </header>
